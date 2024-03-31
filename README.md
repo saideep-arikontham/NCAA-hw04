@@ -26,7 +26,6 @@ EDA of academic progress ratings (APR) in the NCAA...
   * Question 3 may require 2 sets of axes.
   * Each question is worth 2.5 points.
   * Although boxplots will serve the purpose of the assignment, you may find that another visualization tells the story particularly well. Feel free to use another approach if you like, just make sure to justify your choice. This is a rich dataset. Extra credit for creative EDA that extends beyond the requirements of the assignment.
-* Use [git-intro](https://github.com/ds5110/git-intro) as guidance for organizing your repo
 
 ## Question 0
 
